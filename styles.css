@@ -1,0 +1,12 @@
+#description {text-align: center;}
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+#img-caption {text-align: center;}
+#tribute-info {text-align: center;}
